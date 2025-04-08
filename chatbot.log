@@ -1,0 +1,223 @@
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-496-036
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-496-036
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-496-036
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[33mGET /assets/images/service_01.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/css/fontawesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/css/templatemo-finance-business.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/css/owl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[33mGET /assets/images/service_02.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[33mGET /assets/images/service_03.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[33mGET /assets/images/more-info.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/js/slick.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/js/owl.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/js/accordions.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[33mGET /assets/images/client-01.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/images/bot.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/images/send1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/images/slide_02.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/images/fun-facts-bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/images/slide_03.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/images/slide_01.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:10] "[33mGET /assets/images/client-01.png HTTP/1.1[0m" 404 -
+INFO:root:Preprocessed Input: hi
+INFO:root:Prediction: [[5.6348774e-05 1.4459057e-04 2.2355482e-05 3.5035799e-05 1.1077689e-04
+  1.0669879e-05 5.0832652e-02 6.9065834e-05 1.9831225e-05 2.2447975e-06
+  4.3804735e-05 9.4771123e-01 1.9530398e-05 1.8209722e-04 4.2644410e-06
+  2.7230562e-05 2.4687155e-05 4.1854990e-04 3.8985640e-05 1.1830870e-05
+  9.5233681e-06 4.3066316e-06 2.0036082e-04]]
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:52:49] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Preprocessed Input: dinoj
+INFO:root:Prediction: [[1.7072992e-04 4.8933984e-05 5.3928961e-05 1.5374791e-04 2.2123950e-04
+  1.6729205e-06 4.8580966e-03 1.7160315e-05 1.6919995e-06 6.6941419e-07
+  2.1245556e-04 9.9314463e-01 1.9988747e-05 1.0758523e-04 2.7222736e-06
+  5.4395159e-06 5.8525162e-05 7.3625467e-04 1.1167267e-04 3.3386866e-06
+  2.5137460e-05 8.6413320e-06 3.5666460e-05]]
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:53:40] "POST /get_response HTTP/1.1" 200 -
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-496-036
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:22] "[33mGET /assets/images/service_01.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:22] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/css/owl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/css/templatemo-finance-business.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/css/fontawesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[33mGET /assets/images/service_02.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[33mGET /assets/images/service_03.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[33mGET /assets/images/more-info.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/js/owl.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/js/slick.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/js/accordions.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/images/send1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/images/bot.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/images/slide_01.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[33mGET /assets/images/client-01.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/images/slide_02.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/images/slide_03.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[36mGET /static/images/fun-facts-bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:23] "[33mGET /assets/images/client-01.png HTTP/1.1[0m" 404 -
+INFO:root:Preprocessed Input: hi
+INFO:root:Prediction: [[5.6348774e-05 1.4459057e-04 2.2355482e-05 3.5035799e-05 1.1077689e-04
+  1.0669879e-05 5.0832652e-02 6.9065834e-05 1.9831225e-05 2.2447975e-06
+  4.3804735e-05 9.4771123e-01 1.9530398e-05 1.8209722e-04 4.2644410e-06
+  2.7230562e-05 2.4687155e-05 4.1854990e-04 3.8985640e-05 1.1830870e-05
+  9.5233681e-06 4.3066316e-06 2.0036082e-04]]
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 20:57:37] "POST /get_response HTTP/1.1" 200 -
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-496-036
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:absl:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "retrain_model" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 133-496-036
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:39] "[33mGET /assets/images/service_01.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/bootstrap/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/css/fontawesome.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/css/templatemo-finance-business.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/css/owl.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[33mGET /assets/images/service_02.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[33mGET /assets/images/service_03.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[33mGET /assets/images/more-info.jpg HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/jquery/jquery.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/js/custom.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/js/owl.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/js/slick.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/js/accordions.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/js/app.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[33mGET /assets/images/client-01.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/images/bot.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/images/slide_01.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/fonts/fontawesome-webfont.woff2?v=4.3.0 HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/images/chatbox-icon.svg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/images/send1.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/images/slide_02.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/images/slide_03.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[36mGET /static/images/fun-facts-bg.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:40] "[33mGET /assets/images/client-01.png HTTP/1.1[0m" 404 -
+INFO:root:Preprocessed Input: hello
+INFO:root:Prediction: [[1.2903710e-04 1.5241740e-04 3.8567967e-05 4.3443895e-05 8.1555940e-05
+  8.0027945e-05 4.4669601e-01 4.9599959e-05 5.1888685e-05 1.1907395e-05
+  2.0527345e-04 5.5065757e-01 2.3606093e-05 2.0963313e-04 4.8117290e-06
+  9.3052535e-05 5.2444535e-05 2.5117715e-04 5.9964172e-05 1.9846764e-05
+  2.4406589e-05 4.0988002e-06 1.0596245e-03]]
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:12:58] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Preprocessed Input: current interest rate save account
+INFO:root:Prediction: [[5.79168613e-04 6.88342107e-06 1.70515359e-05 6.84151964e-05
+  3.33771209e-06 8.34990933e-05 4.14858696e-05 2.31959511e-05
+  1.01612604e-04 1.84577017e-04 5.43352398e-05 3.29509726e-06
+  7.48560196e-05 4.16409466e-06 1.09507702e-04 1.12143683e-03
+  2.56628613e-04 1.41926039e-05 1.38958989e-04 1.23605307e-04
+  9.96362388e-01 6.16750040e-04 1.08264567e-05]]
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:13:37] "[35m[1mPOST /get_response HTTP/1.1[0m" 500 -
+INFO:root:Preprocessed Input: current interest rate
+INFO:root:Prediction: [[8.80181979e-05 3.77759105e-04 1.13709667e-03 2.57892045e-03
+  6.99993398e-04 8.55076723e-05 5.12677343e-06 1.00949977e-03
+  1.04111714e-04 2.34609324e-04 3.32496165e-05 7.64959987e-06
+  1.73910928e-04 1.72739485e-04 9.92138326e-01 3.60691160e-06
+  5.24549068e-05 6.71990390e-04 6.28367925e-05 6.62914463e-05
+  1.23295089e-04 1.44615260e-04 2.83549216e-05]]
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:matplotlib.category:Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:13:45] "POST /get_response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2024 21:13:47] "POST /get_response HTTP/1.1" 200 -
+INFO:root:Preprocessed Input: current interest rate save account

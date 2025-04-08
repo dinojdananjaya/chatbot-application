@@ -1,0 +1,10 @@
+Flask
+pyodbc
+nltk
+tensorflow
+numpy
+scikit-learn
+apscheduler
+numpy 
+random
+pickle

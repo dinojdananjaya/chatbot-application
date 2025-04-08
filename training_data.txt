@@ -1,0 +1,37 @@
+What are the current interest rates for savings accounts?	savings
+Savings	savings
+What are the current interest rates?	interest_rate
+How do I open a new account?	open_account
+Can I get a loan for my new car?	car_loan
+What documents are required for a home loan?	home_loan_docs
+How do I contact customer support?	contact_support
+Hi	greeting
+Hello	greeting
+Hey	greeting
+Hi there	greeting
+Good morning	greeting
+Good afternoon	greeting
+Good evening	greeting
+How are you?	greeting
+What's up?	greeting
+Do you offer bike loans?	bike_loan
+What is the process for getting a student loan?	student_loan
+How do I update my contact information?	update_contact_info
+What is my account balance?	account_balance
+Can I transfer money to another account?	fund_transfer
+Where is the nearest branch?	branch_locator
+Where is the nearest ATM?	atm_locator
+I received a fraud alert. What should I do?	fraud_alert
+How can I manage my budget?	personal_finance_management
+Give me tips for saving money.	saving_tips
+How do I apply for a personal loan?	personal_loan_info
+What are the eligibility criteria for a home loan?	home_loan_eligibility
+What is the interest rate for a fixed deposit?	fixed_deposit_rate
+Please provide the account type to check the interest rate.	interest_rate_savings
+Please provide your user ID to check the account balance.	account_balance
+Bye	farewell
+Goodbye	farewell
+See you	farewell
+God bless you	farewell
+Thank you	gratitude
+Thanks	gratitude
